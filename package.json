@@ -1,0 +1,12 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chai.js",
+  "scripts": {
+    "test": "browser-sync src test -f='src' 'test' --index=test.html --no-notify --no-open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
